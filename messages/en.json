@@ -1,0 +1,88 @@
+{
+  "under_construction": "🚧 This page is currently under construction. Please check back later.",
+  "Error": "Oh crap, something went wrong... give it a refresh?",
+  "NavMenu": {
+    "Home": "Home",
+    "About": "About",
+    "Experience": "Experience",
+    "Projects": "Projects",
+    "Contact": "Contact"
+  },
+  "Themes": {
+    "Placeholder": "Select a theme",
+    "Light": "Light",
+    "Dark": "Dark",
+    "System": "System"
+  },
+  "Languages": {
+    "Placeholder": "Select a language",
+    "en": "English"
+  },
+  "Root": {
+    "Metadata": {
+      "Title": "<💲Bravo68Web />",
+      "TitleTemplate": "%s / @Bravo68Web",
+      "OpenGraphTitle": "Jyotirmoy Bandyopadhayaya",
+      "Description": "Passionate Software Engineer from India. I love to build software that makes a difference.",
+      "Keywords": "Jyotirmoy,Bravo68web,Software development,Web applications,Mobile applications,,High-quality products,Passionate developer,Skilled designer,Project management,Digital experiences,Innovative solutions,Software craftsmanship,Exceptional digital presence,Software superhero"
+    }
+  },
+  "About": {
+    "Title": "Who am I",
+    "Description": "Passionate Software Engineer from India. I love to build software that makes a difference.",
+    "Heading": "Jyotirmoy Bandyopadhayaya ...",
+    "Intro": "Passionate Software Engineer from India. I love to build software that makes a difference.",
+    "Founder": {
+      "Title": "About me",
+      "Description": "<b>Jyotirmoy Bandyopadhayaya</b>, a talented developer and maker who's passionate about building innovative products that improve people's lives."
+    }
+  },
+  "Portfolios": {
+    "Title": "My featured projects",
+    "Heading": "Projects showroom: witness my <gradient>exceptional software delight</gradient> in action.",
+    "Description": "Explore my portfolios and see for yourself the exceptional software projects we've had the pleasure of working on. Discover how we can help you bring your digital vision to reality and exceed your expectations.",
+    "Intro": "Welcome to my portfolios, where we showcase some of the <gradient>next-generation software projects</gradient> we've had the pleasure of working on. my team of skilled developers and designers have tackled a wide range of challenges and brought my clients' ideas to life. We're proud of the work we've done and are excited to share it with you.<br></br><br></br>At my core, we believe that exceptional software should <b>not only function flawlessly</b>, but also <green>delight users with its design and ease of use</green>. That's why each project we take on is more than just code to us - it's an opportunity to create something that truly <red>makes a difference</red>. We work closely with my clients to understand their needs and goals, and then use my expertise to craft software experiences that exceed their expectations. my portfolio is a testament to my commitment to excellence and we look forward to continuing to create amazing software for years to come.",
+    "Card": {
+      "LearnMoreCTA": "Learn more",
+      "VisitCTA": "Visit website"
+    },
+    "Details": {
+      "Subtitle": "Portfolio"
+    }
+  },
+  "Experience": {
+    "Title": "My Work Experience",
+    "Heading": "Experience showcase: explore the companies I've worked with and the projects I've contributed to.",
+    "Description": "Explore companies I've worked with and the projects I've contributed to. Discover how my skills and expertise can help you achieve your goals.",
+    "Intro": "Checkout my work experience, where I showcase the companies I've worked with and the projects I've contributed to. With a passion for software development and a commitment to excellence, I've had the opportunity to work with some of the most innovative companies in the industry. From startups to established enterprises, I've helped bring their visions to life through my expertise in software engineering and design.<br></br><br></br>Whether you're looking for a skilled developer to join your team or simply want to learn more about my background, I invite you to explore my work experience and see how I can help you achieve your goals."
+  },
+  "Contact": {
+    "Title": "Contact us",
+    "Heading": "Contact us: <gradient>let's bring the fun back to software development</gradient>.",
+    "Description": "I'm always looking for new opportunities to collaborate with like-minded people. If you want to say hi, I'd love to hear from you \uD83D\uDC4F.",
+    "Tips": "You can also get in touch by sending me an email via <email>hi@b68.dev</email>",
+    "Form": {
+      "Message": {
+        "Label": "Leave a message",
+        "Placeholder": "Let me know what your needs are or just say hi \uD83D\uDC4B"
+      },
+      "FullName": {
+        "Label": "Full name",
+        "Placeholder": "e.g. Tony Stark"
+      },
+      "Email": {
+        "Label": "Email address",
+        "Placeholder": "e.g. tony@avengers.com"
+      },
+      "Submit": {
+        "Idle": "Send",
+        "Sending": "Sending...",
+        "Success": "Message sent, I'll get back to you soon!",
+        "Error": "Something went wrong, please try again later."
+      }
+    }
+  },
+  "Copyright": {
+    "Text": "© {year} - @Bravo68Web."
+  }
+}
