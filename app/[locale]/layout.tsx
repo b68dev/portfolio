@@ -76,6 +76,9 @@ export async function generateMetadata({ params }: { params: RootParams }): Prom
       creator: '@bravo68web',
       card: 'summary_large_image',
     },
+    other: {
+      'darkreader-lock': 'true'
+    }
   }
 }
 

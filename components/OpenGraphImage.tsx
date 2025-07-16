@@ -46,7 +46,7 @@ export async function OpenGraphImageTemplate({ text, locale }: OpenGraphImagePro
             }}
             src={bgImageSrc as any}
             width={1200}
-            height={630}
+            height={512}
             alt='Bravo68web Banner'
           />
         </div>
@@ -71,7 +71,7 @@ export async function OpenGraphImageTemplate({ text, locale }: OpenGraphImagePro
     ),
     {
       width: 1200,
-      height: 630,
+      height: 512,
       fonts: [{ name: 'ZolplaySans', data: font, style: 'normal', weight: 400 }],
     },
   )

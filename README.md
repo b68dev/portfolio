@@ -1,6 +1,6 @@
 # bravo68web's portfolio
 
-> This is made with a fork of[zolplay-cn/website](https://github.com/zolplay-cn/website).
+> This is made with a fork of [zolplay-cn/website](https://github.com/zolplay-cn/website).
 
 ## Tech Stack
 
