@@ -87,7 +87,13 @@
         "rxjs",
         "@sanity/*"
       ]
-    }
+    },
+    "onlyBuiltDependencies": [
+      "@tailwindcss/oxide",
+      "core-js",
+      "sharp",
+      "unrs-resolver"
+    ]
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,css,md,mdx,json,yaml,yml}": "prettier --ignore-path .gitignore --cache --write"
